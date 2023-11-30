@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536058961339",
+    "project_id": "ride-sharing-app-63345",
+    "storage_bucket": "ride-sharing-app-63345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536058961339:android:c0db71da15209da28af89e",
+        "android_client_info": {
+          "package_name": "com.example.tripease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_X5Sr2hAwd1UbEeYj1EwhXJvy8O34Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
